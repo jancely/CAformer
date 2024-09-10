@@ -1,5 +1,5 @@
 # CAformer
-TSLib is a code house for CAformer for deep time series forecasting.
+This is a code house for CAformer for deep time series forecasting.
 
 
 ## Usage
