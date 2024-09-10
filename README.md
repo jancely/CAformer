@@ -13,7 +13,7 @@ pip install -r requirements.txt
 2. Prepare Data. You can obtain the well pre-processed datasets from `./data/`
 
 
-3. Train and evaluate model. We provide the experiment scripts of our project under the folder `./scripts/`. You can reproduce the experiment results as the following examples:
+3. Train and evaluate model. We provided the experiment scripts of our project under the folder `./scripts/`. You can reproduce the experiment results as the following examples:
 
 ```
 bash ./scripts/CAformer_ETTh1.sh
@@ -38,7 +38,7 @@ The forecasting performance of CAformer in ETT datasets is displayed as follows:
 
 
 6. Ablation Study.
-Further, we explored the effectiveness of Causal Attention (CA), we substitute CA with vanilla attention and conduct the experiment once again. The comparison of forecasting is exhibited as follows:
+Further, we explored the effectiveness of Causal Attention (CA), we substituted CA with vanilla attention and conduct the experiment once again. The comparison of forecasting is exhibited as follows:
 
 <p align="center">
 <img src="./figures/ablation.png"  alt="" align=center />
